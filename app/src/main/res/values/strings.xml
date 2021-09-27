@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accessibility Service Insertion</string>
+    <string name="native_edittext">Native EditText</string>
+    <string name="accessibility_service_description">desc</string>
+</resources>
